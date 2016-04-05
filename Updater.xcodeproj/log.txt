@@ -1,0 +1,17 @@
+[2016.03.14 21:48:36] Launched version: 9032, dev: [FALSE], beta: 0, debug mode: [FALSE], test dc: [FALSE]
+[2016.03.14 21:48:36] Executable dir: C:/Users/Richie/AppData/Roaming/Telegram Desktop/, name: Telegram.exe
+[2016.03.14 21:48:36] Initial working dir: C:/Users/Richie/Downloads/tdesktop-master/tdesktop-master/Telegram/Updater.xcodeproj/
+[2016.03.14 21:48:36] Working dir: C:/Users/Richie/Downloads/tdesktop-master/tdesktop-master/Telegram/Updater.xcodeproj/
+[2016.03.14 21:48:36] Arguments: "C:\Users\Richie\AppData\Roaming\Telegram Desktop\Telegram.exe" "C:\Users\Richie\Downloads\tdesktop-master\tdesktop-master\Telegram\Updater.xcodeproj\project.pbxproj"
+[2016.03.14 21:48:36] Logs started
+[2016.03.14 21:48:36] Connecting local socket to Global\578fccf323611c36f4b2835f0359c487-{87A94AB0-E370-4cde-98D3-ACC110C5967D}..
+[2016.03.14 21:48:36] This is the only instance of Telegram, starting server and app..
+[2016.03.14 21:48:36] Moved logging from 'log_start0.txt' to 'C:/Users/Richie/Downloads/tdesktop-master/tdesktop-master/Telegram/Updater.xcodeproj/log.txt'!
+[2016.03.14 21:48:36] Checking..
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\.
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\..
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Google Chrome.lnk
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Internet Explorer.lnk
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Explorer.lnk
+[2016.03.14 21:48:36] Checking C:\Users\Richie\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Media Player.lnk
